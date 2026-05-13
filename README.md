@@ -1,4 +1,4 @@
-# Hi, I'm Margi Patel 👋
+# Hi, I'm Margi 👋
 
 I'm a product marketing, growth, and strategy operator interested in **AI-native workflows, developer experience, fintech, and operational intelligence**.
 
@@ -93,4 +93,4 @@ I'm currently focused on how AI can reduce operational complexity in high-intens
 ## Contact
 
 📧 Email: margip2325@gmail.com  
-🔗 LinkedIn: Add your LinkedIn URL here
+🔗 LinkedIn: https://www.linkedin.com/in/margipatel2304/
